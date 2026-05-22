@@ -9,8 +9,8 @@ vibecoding skills
 
 ### 设计
 
-- https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-- https://www.typeui.sh/design-skills
+- 设计规范: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- 设计灵感 skills: https://www.typeui.sh/design-skills
 
 ### 开发
 
